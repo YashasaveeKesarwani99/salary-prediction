@@ -23,10 +23,3 @@ python app.py
 ```
 
 Enter valid numerical values in all 3 input boxes and hit Predict.
-
-
-4. You can also send direct POST requests to FLask API using Python's inbuilt request module
-Run the beow command to send the request with some pre-popuated values -
-```
-python request.py
-```
